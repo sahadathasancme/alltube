@@ -1,13 +1,13 @@
 {
-  "name": "AllTube Download",
-  "description": "HTML GUI for youtube-dl",
-  "repository": "https://github.com/Rudloff/alltube.git",
-  "logo": "https://alltubedownload.net/img/logo.png",
+  "name": "YT Downloader",
+  "description": "YTDL Downloader",
+  "repository": "/",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9V3qU29uvseBZHnAveSO8iMRSRQ4-Wd7Ng&usqp=CAU",
   "keywords": [
-    "alltube",
-    "download",
+    "YT downloader",
+    "Youtube downloader",
     "video",
-    "youtube",
+    "youtube-dl.online",
     "php"
   ],
   "buildpacks": [
@@ -29,5 +29,5 @@
       "required": false
     }
   },
-  "website": "https://alltubedownload.net/"
+  "website": "/"
 }
